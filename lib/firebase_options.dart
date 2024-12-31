@@ -52,9 +52,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-      apiKey: "AIzaSyAhE5iTdU1MflQxb4_M_uHiXJR9EC_mE_I",
-      authDomain: "nanochat.firebaseapp.com",
-      projectId: "firebase-nanochat",
-      messagingSenderId: '137230848633',
-      appId: '1:137230848633:web:89e9b54f881fa0b843baa8');
+    apiKey: 'AIzaSyDY6i0zyNi7BviSALmL9TSmqGMnAlhijxI',
+    authDomain: 'chat-app-fa72c.firebaseapp.com',
+    projectId: 'chat-app-fa72c',
+    storageBucket: 'chat-app-fa72c.firebasestorage.app',
+    messagingSenderId: '219330259808',
+    appId: '1:219330259808:web:f9f9dc675dc20b27318c05',
+    measurementId: 'G-DBGWJD2BSW'
+  );
 }
